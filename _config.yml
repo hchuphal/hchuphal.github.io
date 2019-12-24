@@ -176,6 +176,8 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/himanshuchuphal"
   - title: "facebook"
     url: "https://facebook.com/himanshu.chuphal"
   - title: "twitter"
