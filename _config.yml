@@ -133,26 +133,26 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/ericsson.png"
     date: "Apr 2018 - Today"
     description: "Software Engineer, Ericsson, Sweden"
   - image: "/img/timeline/cth.png"
     date: "Aug 2018 - May 2020"
     description: "MSc (Computer Science and Engineering), CHALMERS-GU, Sweden"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/cisco.png"
     date: "Aug 2014 - March 2018"
     description: "Software Engineer, Cisco Systems, India"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/altran.png"
     date: "Dec 2011 - July 2014"
     description: "Software Engineer, Altran (Aricent Group), India"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/ait.jpg"
     date: "Aug 2007 - Aug 2011"
-    description: "Bachelors of Technology, Computer Science"
+    description: "Bachelors of Technology, Computer Science & Engineering"
 
 # First image of the Timeline
 
 #timeline-img: "/img/timeline/default.png"
-timeline-img: "/img/timeline/hc_bw.png"
+timeline-img: "/img/timeline/h1.png"
 
 ###########
 # Contact #
@@ -178,12 +178,14 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/himanshuchuphal"
+  - title: "github"
+    url: "https://github.com/hchuphal"
   - title: "facebook"
     url: "https://facebook.com/himanshu.chuphal"
   - title: "twitter"
     url: "https://twitter.com/hmanshu_chuphal"
-  - title: "github"
-    url: "https://github.com/hchuphal"
+  - title: "instagram"
+    url: "https://www.instagram.com/himanshu.chuphal/"
   #- title: "bitcoin"
    # url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
