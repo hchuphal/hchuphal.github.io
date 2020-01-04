@@ -233,3 +233,7 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
+plugins:
+  - jekyll-paginate
+paginate: 5
