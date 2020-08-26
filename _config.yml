@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "HIMANSHU CHUPHAL"
-  - text: "Software Engineer | CHALMERS | UNIVERSITY OF GOTHENBURG | Sweden"
+  - text: "Software Engineer | MSc. | CHALMERS | UNIVERSITY OF GOTHENBURG"
 
 #me-img: "/img/jetpacktocat.png"
 me-img: "/img/Himanshu_Chuphal.JPG"

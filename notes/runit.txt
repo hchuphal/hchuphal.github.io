@@ -1,0 +1,4 @@
+gem install github-pages
+gem update github-pages
+jekyll build
+jekyll serve
